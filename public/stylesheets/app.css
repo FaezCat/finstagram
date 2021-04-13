@@ -21,5 +21,13 @@ main {
 }
 
 body {
-font-family: 'Karantina', cursive;
+    font-family: 'Karantina', cursive;
+}
+
+a.photo:hover{
+padding: 10px;
+}
+
+a.photo:hover{
+    transition: padding 0.5s;
 }
